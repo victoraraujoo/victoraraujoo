@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center"> Welcome, my name is Victor and this is my GitHub. </h1>
 
-<!--
-**victoraraujoo/victoraraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p> I am a student of Information Systems at UFSC. I am seeking job or internship opportunities in the web development field. I have specialized in Node.js and plan to further develop my skills in this technology. I am enthusiastic about applying my abilities and contributing to challenging projects.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align= "center">
+
+<h2> Some of my projects with VanillaJS </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victoraraujoo&repo=pokedex-js&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+	
+</div>
+
+---
+
+<div align= "center">
+
+<h2> Github Stats </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoraraujoo&show_icons=true&theme=radical)
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoraraujoo&hide_progress=true&theme=radical)
+
+</div>
+	
+---
+
+<div align= "center">
+
+<h2>  Contact me </h2>
+
+<a href="mailto:victorm.araujoo@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "email" height = "30"></a>
+<a href="https://www.linkedin.com/in/victor-ara%C3%BAjo-446597160/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linked-in" height = "30"></a>
+  
+</div>
+

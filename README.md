@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome, my name is Victor and this is my GitHub. </h1>
 
 
-<p> I am a student of Information Systems at UFSC. I am seeking job or internship opportunities in the web development field. I have specialized in Node.js and plan to further develop my skills in this technology. I am enthusiastic about applying my abilities and contributing to challenging projects.</p>
+<p align="justify"> I am a student of Information Systems at UFSC. I am seeking job or internship opportunities in the web development field. I have specialized in Node.js and plan to further develop my skills in this technology. I am enthusiastic about applying my abilities and contributing to challenging projects.</p>
 
 ---
 

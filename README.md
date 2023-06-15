@@ -7,9 +7,10 @@
 
 <div align= "center">
 
-<h2> Some of my projects with VanillaJS </h2>
+<h2> Some of my projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victoraraujoo&repo=pokedex-js&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victoraraujoo&repo=front-end-web-development-course&theme=radical)](https://github.com/victoraraujoo/front-end-web-development-course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victoraraujoo&repo=back-end-web-development-course&theme=radical)](https://github.com/victoraraujoo/back-end-web-development-course)
 	
 </div>
 
